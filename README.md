@@ -1,4 +1,4 @@
-
+This command will start the server on http://localhost:3000.
 User Model
 username: String, required, unique
 room: String, required
